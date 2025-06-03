@@ -1,1 +1,26 @@
 # NimbusCSS
+
+
+NimbusCSS is a lightweight, customizable CSS framework built with Sass. It provides a clean, consistent design system and a collection of utility classes to speed up web development.
+
+---
+
+##  Features
+
+- Custom theme using Sass variables (colors, typography, spacing)
+- Styled HTML elements: headings, buttons, forms, tables, lists
+- Utility classes for spacing, font styling, alignment, and borders
+- Fully modular using Sass partials
+- Easy to install, use, and customize
+
+---
+
+## 🛠Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/eagl0037/nimbuscss.git
+cd nimbuscss
+npm install
+npm run sass
