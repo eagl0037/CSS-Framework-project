@@ -1,4 +1,4 @@
-# NimbusCSS
+# Hitech.css
 
 
 NimbusCSS is a lightweight, customizable CSS framework built with Sass. It provides a clean, consistent design system and a collection of utility classes to speed up web development.
@@ -20,7 +20,7 @@ NimbusCSS is a lightweight, customizable CSS framework built with Sass. It provi
 Clone the repository:
 
 ```bash
-git clone https://github.com/eagl0037/nimbuscss.git
+git clone https://github.com/eagl0037/Hitech.css.git
 cd nimbuscss
 npm install
 npm run sass
