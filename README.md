@@ -1,7 +1,7 @@
 # Hitech.css
 
 
-NimbusCSS is a lightweight, customizable CSS framework built with Sass. It provides a clean, consistent design system and a collection of utility classes to speed up web development.
+Hitech.css is a lightweight, customizable CSS framework built with Sass. It provides a clean, consistent design system and a collection of utility classes to speed up web development.
 
 ---
 
