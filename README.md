@@ -21,6 +21,6 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/eagl0037/Hitech.css.git
-cd nimbuscss
+cd Hitech.css
 npm install
 npm run sass
