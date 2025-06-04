@@ -1,4 +1,4 @@
-# 🌩️ NimbusCSS
+# 🌩️ Hitech.css
 
 A custom CSS framework built with Sass. Includes theme styles and utility classes for rapid HTML development.
 
@@ -8,7 +8,7 @@ A custom CSS framework built with Sass. Includes theme styles and utility classe
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/NimbusCSS.git
+   git clone https://github.com/eagl0037/Hitech.css.git
    cd NimbusCSS
    ```
 
@@ -71,7 +71,4 @@ npm run build
 
 ---
 
-## 👥 Authors
 
-Team: Your Names Here  
-Instructor: [Your Instructor Name]
