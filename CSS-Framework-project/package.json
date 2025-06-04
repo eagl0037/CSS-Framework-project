@@ -1,0 +1,11 @@
+{
+  "name": "nimbuscss",
+  "version": "1.0.0",
+  "devDependencies": {
+    "sass": "^1.75.0"
+  },
+  "scripts": {
+    "sass": "sass scss/main.scss dist/style.css --watch",
+    "build": "sass scss/main.scss dist/style.css"
+  }
+}

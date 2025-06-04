@@ -1,0 +1,16 @@
+@use '../abstracts/variables' as variables;
+
+.btn-primary {
+  background-color: variables.$primary-color;
+  color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: variables.$border-radius;
+  font-size: variables.$font-base;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+
+  &:hover {
+    background-color: variables.$secondary-color;
+  }
+}

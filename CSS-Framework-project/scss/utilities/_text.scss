@@ -1,0 +1,20 @@
+@use '../abstracts/variables' as variables;
+
+// text colors
+.text-primary { color: variables.$primary-color !important; }
+.text-secondary { color: variables.$secondary-color !important; }
+.text-muted { color: #6c757d !important; }
+
+// font weights
+.text-bold { font-weight: bold !important; }
+.text-normal { font-weight: normal !important; }
+
+// font sizes
+.text-sm { font-size: 0.875rem !important; }
+.text-md { font-size: 1rem !important; }
+.text-lg { font-size: 1.25rem !important; }
+
+// text align
+.text-center { text-align: center !important; }
+.text-left { text-align: left !important; }
+.text-right { text-align: right !important; }
