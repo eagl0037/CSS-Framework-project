@@ -7,7 +7,7 @@ Hitech.css is a lightweight, customizable CSS framework built with Sass. It prov
 
 ##  Features
 
-- Custom theme using Sass variables (colors, typography, spacing)
+- Custom theme using Sass variables (colours, typography, spacing)
 - Styled HTML elements: headings, buttons, forms, tables, lists
 - Utility classes for spacing, font styling, alignment, and borders
 - Fully modular using Sass partials
@@ -15,7 +15,7 @@ Hitech.css is a lightweight, customizable CSS framework built with Sass. It prov
 
 ---
 
-## 🛠Installation
+## Installation
 
 Clone the repository:
 
