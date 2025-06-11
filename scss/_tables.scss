@@ -11,6 +11,6 @@ table {
   }
 
   thead {
-    background-color: darken($bg-light, 5%);
+    background-color: color.adjust($bg-light, $lightness: -5%);
   }
 }
