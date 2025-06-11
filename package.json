@@ -1,0 +1,11 @@
+{
+  "name": "custom-css-framework",
+  "version": "1.0.0",
+  "description": "A lightweight custom CSS framework built with Sass.",
+  "scripts": {
+    "build": "sass src/main.scss dist/style.css --watch"
+  },
+  "devDependencies": {
+    "sass": "^1.32.0"
+  }
+}
