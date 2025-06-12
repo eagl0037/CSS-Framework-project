@@ -2,7 +2,6 @@
 
 Fantastic CSS is a modern, modular CSS framework built with Sass, designed to simplify front-end development with clean aesthetics and flexible customization. Whether you're building a landing page or a full web app, Fantastic CSS gives you a solid foundation with utility-first styling and elegant component design.
 
----
 
 ## ✨ Key Highlights
 
@@ -11,7 +10,6 @@ Fantastic CSS is a modern, modular CSS framework built with Sass, designed to si
 - 🧩 **Prebuilt Components** – Includes responsive buttons, forms, tables, and more.
 - 📐 **Built for Consistency** – Global styles keep your UI visually harmonious out of the box.
 
----
 
 ## 🛠 Installation & Setup
 
