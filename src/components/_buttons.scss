@@ -1,18 +1,21 @@
+@use '../abstract/variables';
+@use '../abstract/mixins';
+
 .btn {
-  padding: $padding;
-  border-radius: $border-radius;
+  padding: variables.$padding;
+  border-radius: variables.$border-radius;
   border: none;
   cursor: pointer;
-  font-size: $font-size-base;
-  @include transition(all);
+  font-size: variables.$font-size-base;
+  @include mixins.transition(all);
 }
 
 .btn-primary {
-  background-color: $primary-color;
+  background-color: variables.$primary-color;
   color: #fff;
 }
 
 .btn-secondary {
-  background-color: $secondary-color;
+  background-color: variables.$secondary-color;
   color: #fff;
 }

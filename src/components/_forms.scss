@@ -1,3 +1,5 @@
+@use '../abstract/variables';
+
 form {
   display: flex;
   flex-direction: column;
@@ -6,8 +8,8 @@ form {
 
 input,
 textarea {
-  padding: $padding;
-  border: 1px solid $secondary-color;
-  border-radius: $border-radius;
-  font-size: $font-size-base;
+  padding: variables.$padding;
+  border: 1px solid variables.$secondary-color;
+  border-radius: variables.$border-radius;
+  font-size: variables.$font-size-base;
 }

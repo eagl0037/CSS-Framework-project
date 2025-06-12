@@ -1,8 +1,10 @@
+@use '../abstract/variables';
+
 body {
   font-family: Arial, sans-serif;
-  font-size: $font-size-base;
-  color: $text-color;
-  background-color: $background-color;
+  font-size: variables.$font-size-base;
+  color: variables.$text-color;
+  background-color: variables.$background-color;
   line-height: 1.6;
 }
 
